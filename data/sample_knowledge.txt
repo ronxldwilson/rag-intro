@@ -1,0 +1,24 @@
+What is Artificial Intelligence?
+
+Artificial Intelligence (AI) is a field of computer science that aims to create machines capable of intelligent behavior. It involves the development of algorithms and systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+
+Types of AI:
+
+1. Narrow AI (Weak AI): Designed for specific tasks, like voice assistants or recommendation systems.
+2. General AI (Strong AI): Hypothetical AI with human-like intelligence across all domains.
+3. Superintelligent AI: AI that surpasses human intelligence in all areas.
+
+Applications of AI:
+
+- Healthcare: Disease diagnosis, drug discovery
+- Transportation: Self-driving cars, traffic optimization
+- Finance: Fraud detection, algorithmic trading
+- Entertainment: Content recommendation, game AI
+
+Machine Learning vs Deep Learning:
+
+Machine Learning is a subset of AI that enables systems to learn from data without being explicitly programmed. Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to model complex patterns in data.
+
+The Future of AI:
+
+AI is expected to revolutionize various industries. However, it also raises ethical concerns about job displacement, privacy, and the need for responsible AI development.
